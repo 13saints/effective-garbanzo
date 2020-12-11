@@ -1,5 +1,7 @@
 # effective-garbanzo
 ## Pokemons for memorizing phone numbers. 
+*created: 2020 Dec 11*
+*updated: 2020 Dec 12*
 
 "The day I have to use a phone-book is the day I'll quit playing chess." Kasparov is said to have uttered something along these lines. There was a time when you had to memorize all the phone numbers you had because losing your phone-book could land you in trouble. Now, memorizing phone numbers doesn't even cross our mind. It's an art we are losing. 
 
