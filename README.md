@@ -13,5 +13,5 @@ To overcome these problems, I have set out to memorize the first hundred. Pokemo
 73 more to learn. 
 
 
-![Mewtwo](https://github.com/13saints/effective-garbanzo/blob/download.jpg?raw=true)
+![Mewtwo](https://github.com/13saints/effective-garbanzo/blob/main/images/download.jpg?raw=true)
 [Image Source: https://www.flickeringmyth.com/2019/01/pokemon-the-first-movie-cgi-remake-pokemon-mewtwo-strikes-back-evolution-gets-a-trailer/]
