@@ -15,4 +15,4 @@
 
 Visualization issues: 29-34, 35-6, 40. But good job on memorizing. Let it simmer. 
 
-[![KPL](https://github.com/13saints/licenses/blob/main/logos/KPLaffirmedT.PNG)](https://raw.githubusercontent.com/13saints/licenses/main/KPLv1.0.txt)
+[![KPL](https://github.com/13saints/licenses/blob/main/logos/KPLv1.0-affirmed-medium.png)](https://raw.githubusercontent.com/13saints/licenses/main/KPLv1.0.txt)
